@@ -1,0 +1,46 @@
+#container img.zoomed {
+  transform: scale(1.5);
+}
+
+body {
+  background-color: #c9c8c1;
+}
+
+div {
+  padding: 20px;
+} 
+
+body {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*h1 {
+  font-size: 6rem;
+  margin-left: 40px;
+}
+*/
+
+a {
+  font-size: 2rem;
+  margin-left: 10%;
+}
+
+p {
+  font-size: 2rem;
+  text-align: center;
+}
+
+#last {
+  text-align: left;
+}
+
+/*
+transition-timing-function: ease-in;
+*/
+
+#bottom {
+  margin-top: 5%;
+}

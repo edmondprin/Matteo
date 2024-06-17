@@ -1,0 +1,30 @@
+a {
+  font-size: 2rem;
+  margin-left: 10%;
+}
+
+
+body {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  margin-left: 5px;
+}
+
+
+body {
+  background-color: #c9c8c1;
+}
+
+/*
+h1 {
+  font-size: 4rem;
+}
+*/
+
+h5 {
+  font-size: 2rem;
+  font-weight: 800;
+  background-color: rgb(91, 91, 85);
+}
